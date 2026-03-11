@@ -5,6 +5,8 @@ This project implements a comprehensive data pipeline for analyzing Walmart's re
 
 Walmart, as the largest retail store in the United States, has seen significant growth in its e-commerce segment, reaching $80 billion in online sales by 2022 (representing 13% of total sales). Public holidays such as Super Bowl, Labor Day, Thanksgiving, and Christmas play a crucial role in driving sales fluctuations. This data pipeline enables data-driven insights into these patterns, supporting inventory optimization, staffing decisions, and strategic planning.
 
+**Live Notebook:** [Live Jupyter Notebook File](https://iandavidk.github.io/Retail_Data_Pipeline/)
+
 ## 🏆 Project Highlights
 - **End-to-End ETL Pipeline**: Complete data processing workflow from raw sources to analysis-ready datasets
 - **Holiday Impact Analysis**: Quantified analysis of sales patterns during major public holidays
