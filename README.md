@@ -233,17 +233,6 @@ jupyter notebook notebook.ipynb
 ## 🔒 License
 This project is distributed under the MIT License. See [LICENSE](LICENSE) for complete terms and conditions.
 
-### Development Guidelines
-- Maintain code quality and documentation standards
-- Add unit tests for transformation functions
-- Update README for significant feature additions
-- Ensure backward compatibility with existing datasets
-
-## 🙏 Acknowledgments
-- **Walmart**: For providing the foundational retail dataset
-- **DataCamp**: For the project framework and learning platform
-- **Open Source Community**: For the powerful data processing libraries
-
 ---
 
 *Last Updated: March 2026 | Data Pipeline Version: 1.0*
